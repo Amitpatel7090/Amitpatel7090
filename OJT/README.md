@@ -1,2 +1,2 @@
 # OJT  
-## This is subsub of OJT-PROGRAM.
+## This is subtree of OJT-PROGRAM.

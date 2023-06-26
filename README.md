@@ -13,7 +13,7 @@
 |     3| SQL       |
    >Go with Flow.
 
-     _  AMIT PATEL
+     _  AMIT PATEL...
  
 
   </details>
